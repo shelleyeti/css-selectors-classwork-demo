@@ -1,0 +1,35 @@
+body {
+    background-color: cornflowerblue;
+}
+
+nav a {
+    color: goldenrod;
+}
+
+article > p {
+    background-color: green;
+}
+
+#topNav {
+    background-color: black
+}
+
+div + p {
+    background: tomato;
+}
+
+.active {
+    color: blanchedalmond
+}
+
+div ~ p {
+    background-color: whitesmoke;
+}
+
+footer a {
+    color:lightpink;
+}
+
+a {
+    color: white;
+}
